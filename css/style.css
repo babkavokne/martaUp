@@ -135,7 +135,7 @@ a{
   font-weight: 700;
   text-align: center;
 }
-.slecialised__items {
+.specialised__items {
   display: flex;
   justify-content: space-between;
   max-width: 980px;
